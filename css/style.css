@@ -13,3 +13,10 @@
 .client-img{
     width: 150px;
 }
+.btn-pre{
+    background-image: url('../image/left-arrow.png');
+    
+}
+.btn-next{
+    background-image: url('../image/right-arrow.png');
+}
